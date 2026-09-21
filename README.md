@@ -7,3 +7,4 @@ The entire process of building a Large Language Model (LLM) from scratch.
 4. How GPT-3 Really Works?
 5. Stages of building an LLM from Scratch
 6. Tokenization: From Raw Text to Token IDs
+7. Byte Pair Encoding (BPE)
